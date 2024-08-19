@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://t0h58kbpihph"
+path="res://.godot/imported/Pixel Summer.mp3-6be550c4f323f262efebc4e8bb24376a.mp3str"
+
+[deps]
+
+source_file="res://Assets/Music/Pixel Summer.mp3"
+dest_files=["res://.godot/imported/Pixel Summer.mp3-6be550c4f323f262efebc4e8bb24376a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

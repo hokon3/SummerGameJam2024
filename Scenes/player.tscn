@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://d0ipgecnwqnk"]
+
+[ext_resource type="Script" path="res://player.gd" id="1_eux3e"]
+[ext_resource type="Texture2D" uid="uid://ch2b78lfa4bt3" path="res://Assets/PlayerImages/FishAndLegs.webp" id="2_415hk"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_eux3e")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+scale = Vector2(0.563238, 0.626)
+texture = ExtResource("2_415hk")
